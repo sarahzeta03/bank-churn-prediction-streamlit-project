@@ -4,7 +4,7 @@ A web application that predicts whether bank customers are likely to churn or st
 
 🎉 **Live Demo**
 
-Streamlit App: https://bank-churn-prediction-app-project.streamlit.app/](https://bank-churn-prediction-app-project-zamhq2orj8z792xbbmfdvt.streamlit.app/
+Streamlit App: [https://bank-churn-prediction-app-project.streamlit.app/](https://bank-churn-prediction-app-project-zamhq2orj8z792xbbmfdvt.streamlit.app/](https://bank-churn-prediction-app-project-zamhq2orj8z792xbbmfdvt.streamlit.app/)
 
 Repository: https://github.com/sarahzeta03/bank-churn-prediction-streamlit-project
 
